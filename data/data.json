@@ -1,0 +1,22 @@
+{
+  "friends": [{
+    "title" : "Best Friend",
+    "name": "Messi",
+    "shortname" : "messi",
+    "summary" : "On a never ending mission to grow up as an individual and learner.",
+    "description": "<p>Ajay was born in D.Dun </p>"
+    },{
+    "title" : "Best Friend ",
+    "name": "Ronaldo",
+    "shortname" : "ronaldo",
+    "summary": "On a never ending mission to grow up as an individual and learner.",
+    "description": "<p>Manpreet was born in D.dun</p>"
+  },{
+    "title" : "ME",
+    "name": "Veerpal Singh",
+    "shortname" : "me",
+    "summary": "On a never ending mission to grow up as an individual and learner.",
+    "description": "<p>Vijay was born in D.dun</p>"
+
+  }]
+}
